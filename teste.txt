@@ -19,3 +19,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 TESTES:
 The current branch main has no upstream branch.
 To push the current branch and set the remote as upstream.
+
+
+git add .
+git commit -a -m "Enviando arquivos"
+git push
